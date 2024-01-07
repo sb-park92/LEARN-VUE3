@@ -1,19 +1,11 @@
 <template>
-	<div>
-		<h2 v-html="html"></h2>
-	</div>
+	<div></div>
 </template>
 
 <script>
-import { ref } from 'vue';
-
 export default {
 	setup() {
-		const html = ref('<strong>스트롱</strong>');
-
-		return {
-			html,
-		};
+		return {};
 	},
 };
 </script>
