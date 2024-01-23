@@ -4,10 +4,12 @@
 		<h3>강의가 있습니까?</h3>
 		<p>{{ hasLecture }}</p>
 		<p>{{ hasLecture }}</p>
+
 		<p>{{ hasLecture }}</p>
 		<p>{{ existLecture() }}</p>
 		<p>{{ existLecture() }}</p>
 		<p>{{ existLecture() }}</p>
+
 		<h2>이름</h2>
 		<p>{{ fullName }}</p>
 	</div>
