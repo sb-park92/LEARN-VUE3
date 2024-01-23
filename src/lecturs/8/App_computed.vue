@@ -10,7 +10,7 @@
 		<p>{{ existLecture() }}</p>
 		<p>{{ existLecture() }}</p>
 
-		<h2>이름</h2>
+		<h2>이름2</h2>
 		<p>{{ fullName }}</p>
 	</div>
 </template>
